@@ -5,5 +5,5 @@ descriptionを充実させましょうね
 ## USAGE
 
 ```
-$ bash run.sh
+$ bash run.sh [USERNAME OF GITHUB]
 ```
